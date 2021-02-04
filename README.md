@@ -26,8 +26,8 @@ Et j'ai également utilisé des éléments de la librairie [Polaris](https://pol
 ## Aperçu de l'application
 
 Ci-dessous, vous avez la page d'accueil de notre application, où nous pouvons gérer :
-- Nos points de ventes, où nous définissons des horaires de retrait.
-- Un *sample* de panier, où nous pourrons tester notre nouvelle application.
+- nos points de vente, où nous définissons des horaires de retrait
+- un *sample* de panier, où nous pourrons tester notre nouvelle application
 
 ![acceuil](https://github.com/nicolasdecorbez/shopify_app/blob/main/img/1.png?raw=true)
 
@@ -35,13 +35,18 @@ Dès que nous avons cliqué sur un point de vente, nous arrivons sur cette page 
 
 ![setup](https://github.com/nicolasdecorbez/shopify_app/blob/main/img/2.png?raw=true)
 
-Passons maintenant au panier ; ici, on selectionne 3 produits différents :
+Passons maintenant au panier ; ici, on sélectionne 3 produits différents :
 
 ![cart](https://github.com/nicolasdecorbez/shopify_app/blob/main/img/3.png?raw=true)
 
 Et enfin, nous avons plusieurs *date picker* pour définir plusieurs jours de retrait, tout en ne gardant qu'une seule commande.
 
 ![end](https://github.com/nicolasdecorbez/shopify_app/blob/main/img/4.png?raw=true)
+
+Un des défauts majeurs de cette application est une apparence un peu triviale ; en effet, nous n'avons accordé que peu de temps à l'aspect visuel, préférant une application 100% fonctionnelle.
+
+Ce projet fut élu **Projet Coup de Cœur** par notre partenaire, répondant ainsi à toutes ses attentes.
+
 ---
 
 > Ci-dessous, je vous joins le README.md de Shopify-App-CLI, qui continent de plus amples informations.
