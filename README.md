@@ -2,11 +2,10 @@
 
 Pour ce projet visant à travailler pour la première fois directement avec une entreprise, nous devions proposer une solution à notre partenaire ([monmarche.drindrin.fr](https://monmarche.drindrin.fr)) afin de résoudre la problématique suivante :
 
-```
-Si le client mets plusieurs produits de plusieurs fournisseurs différents, il n'est pas possible de passer la commande. Il se doit de faire plusieurs commande afin de récupérer tous les produits souhaités.
+`Si le client mets plusieurs produits de plusieurs fournisseurs différents, il n'est pas possible de passer la commande. Il se doit de faire plusieurs commande afin de récupérer tous les produits souhaités.
 
 Vous devrez trouver une solution permettant au consommateur d'effectuer une seule commande contenant des articles de plusieurs fournisseurs différents.
-```
+`
 
 Nous avons donc choisi de créer une application Shopify (le site web original ayant été créé sur cette plateforme) en React et NodeJS avec pour objectif de reproduire le comportement du panier actuel, et de l'améliorer en lui offrant de nouvelles fonctionnalités.
 
