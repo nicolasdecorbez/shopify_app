@@ -25,6 +25,12 @@ Et j'ai également utilisé des éléments de la librairie [Polaris](https://pol
 
 ## Aperçu de l'application
 
+Ci dessous, vous avez la page d'acceuil de notre application, où nous pouvons gérer :
+- Nos points de ventes, où nous définissons des horaires de retrait.
+- Un *sample* de panier, où nous pourrons tester notre nouvelle application.
+
+![acceuil](https://github.com/nicolasdecorbez/shopify_app/blob/main/img/1.png?raw=true)
+
 ---
 
 > Ci-dessous, je vous joins le README.md de Shopify-App-CLI, qui continent de plus amples informations.
